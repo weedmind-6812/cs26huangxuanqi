@@ -1,8 +1,8 @@
-cs26kaijunhan Assessment
+cs26 Assessment
 =================
 
 Involves 
-* cs26kaijunhan
+* cs26
 * git
 * GitHub
 * SSH
